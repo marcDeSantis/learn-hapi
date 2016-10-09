@@ -1,0 +1,23 @@
+{
+  "name": "learn-hapi",
+  "version": "1.0.0",
+  "description": "Learning hapijs",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^15.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcDeSantis/learn-hapi.git"
+  },
+  "author": "Marc DeSantis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcDeSantis/learn-hapi/issues"
+  },
+  "homepage": "https://github.com/marcDeSantis/learn-hapi#readme"
+}
